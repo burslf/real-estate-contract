@@ -119,7 +119,3 @@ Buy properties by calling the buyProperty function with the desired ID and amoun
 ![image](https://user-images.githubusercontent.com/61319421/228852468-1f12889b-a192-4005-a49f-ae996293c5e1.png)
 
 
-### Mint Property
-
-
-
